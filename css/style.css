@@ -73,7 +73,7 @@ nav li a {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 652px;
+    height: 635px;
 }
 
 #hero .hero-content {
@@ -157,6 +157,7 @@ nav li a {
     justify-content: flex-start;
     align-items: center;
     padding: 0px;
+    font-weight: 400;
 }
 
 
